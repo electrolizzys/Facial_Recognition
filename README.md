@@ -25,9 +25,3 @@ i tried a CNN model for 3-4 times, it didnt get accuracy score over ~59 in those
 
 
 
-Cell 2: Enhanced Facial Expression CNN Model Definition: Defines the neural network.
-
-Cell 3: Training Loop and WandB Integration: Starts the training process.
-
-Results (Expected)
-The project aims to achieve a test accuracy of at least 60% for facial expression recognition. The training process and performance metrics can be monitored in real-time on your Weights & Biases dashboard.
